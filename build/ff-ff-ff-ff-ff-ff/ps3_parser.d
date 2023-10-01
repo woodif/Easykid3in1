@@ -1,0 +1,29 @@
+C:\Users\WD\Documents\KB-IDE\boards\EasyKids_3in1\build\ff-ff-ff-ff-ff-ff\ps3_parser.o: \
+ C:\Users\WD\Documents\KB-IDE\boards\EasyKids_3in1\include\ps3_parser.c \
+ C:\Users\WD\Documents\KB-IDE\platforms\arduino-esp32\sdk\include\newlib/stdint.h \
+ C:\Users\WD\Documents\KB-IDE\platforms\arduino-esp32\sdk\include\newlib/machine/_default_types.h \
+ C:\Users\WD\Documents\KB-IDE\platforms\arduino-esp32\sdk\include\newlib/sys/features.h \
+ C:\Users\WD\Documents\KB-IDE\platforms\arduino-esp32\sdk\include\newlib/sys/_intsup.h \
+ C:\Users\WD\Documents\KB-IDE\platforms\arduino-esp32\sdk\include\newlib/string.h \
+ C:\Users\WD\Documents\KB-IDE\platforms\arduino-esp32\sdk\include\newlib/_ansi.h \
+ C:\Users\WD\Documents\KB-IDE\platforms\arduino-esp32\sdk\include\newlib/newlib.h \
+ C:\Users\WD\Documents\KB-IDE\platforms\arduino-esp32\sdk\include\newlib/sys/config.h \
+ C:\Users\WD\Documents\KB-IDE\platforms\arduino-esp32\sdk\include\newlib/machine/ieeefp.h \
+ C:\Users\WD\Documents\KB-IDE\platforms\arduino-esp32\sdk\include\esp32/xtensa/config/core-isa.h \
+ C:\Users\WD\Documents\KB-IDE\platforms\arduino-esp32\sdk\include\newlib/sys/reent.h \
+ C:\Users\WD\Documents\KB-IDE\platforms\arduino-esp32\sdk\include\newlib/_ansi.h \
+ C:\Users\WD\Documents\KB-IDE\platforms\arduino-esp32\sdk\include\newlib/sys/_types.h \
+ C:\Users\WD\Documents\KB-IDE\platforms\arduino-esp32\sdk\include\newlib/machine/_types.h \
+ C:\Users\WD\Documents\KB-IDE\platforms\arduino-esp32\sdk\include\newlib/sys/lock.h \
+ C:\Users\WD\Documents\KB-IDE\platforms\arduino-esp32\sdk\include\newlib/sys/cdefs.h \
+ C:\Users\WD\Documents\KB-IDE\platforms\arduino-esp32\sdk\include\newlib/sys/string.h \
+ C:\Users\WD\Documents\KB-IDE\boards\EasyKids_3in1\include\include/ps3.h \
+ C:\Users\WD\Documents\KB-IDE\boards\EasyKids_3in1\include\include/ps3_int.h \
+ C:\Users\WD\Documents\KB-IDE\platforms\arduino-esp32\sdk\include\inc/sdkconfig.h \
+ C:\Users\WD\Documents\KB-IDE\platforms\arduino-esp32\sdk\include\inc/esp_log.h \
+ C:\Users\WD\Documents\KB-IDE\platforms\arduino-esp32\sdk\include\inc/sdkconfig.h \
+ C:\Users\WD\Documents\KB-IDE\platforms\arduino-esp32\sdk\include\esp32/rom/ets_sys.h \
+ C:\Users\WD\Documents\KB-IDE\platforms\arduino-esp32\sdk\include\inc/soc/soc.h \
+ C:\Users\WD\Documents\KB-IDE\platforms\arduino-esp32\sdk\include\esp32/esp_assert.h \
+ C:\Users\WD\Documents\KB-IDE\platforms\arduino-esp32\sdk\include\newlib/assert.h \
+ C:\Users\WD\Documents\KB-IDE\platforms\arduino-esp32\sdk\include\inc/esp_log_internal.h
